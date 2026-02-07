@@ -1,0 +1,56 @@
+body{
+  background-color: peachpuff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+  color: gray;
+  font-family:'Times New Roman', Times, serif;
+}
+h2{
+  font-family:'Times New Roman', Times, serif;
+}
+a{
+  color: slateblue;
+}
+nav ul {
+  background-color: sandybrown;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: seashell;
+  padding: 10px;
+}
+
+nav ul li{
+  list-style-type: none;
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: papayawhip;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: olive;
+}
+
+img{
+  border-radius: 30px;
+}
+div{
+  position:relative;
+  padding-bottom: 40%;
+}
+table , th , td{
+  border-bottom:  2px;
+  border-color: rgb(245, 245, 53);
+  border-style: double;
+}
+tr{
+  background-color: blanchedalmond;
+}
+th,td{
+  color: black;
+  padding: auto;
+  text-align: left;
+}
